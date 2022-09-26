@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="search_for_movies">SEARCH FOR MOVIES</string>
+    <string name="search_for_actors">SEARCH FOR ACTORS</string>
+    <string name="main_logo">Main Logo</string>
+    <string name="_20200803_w1833667">20200803 / W1833667</string>
+    <string name="search">SEARCH</string>
+    <string name="enter_the_actor_s_name">Enter the Actor\'s Name</string>
+    <string name="search_page_icon1">Search Page Icon1</string>
+    <string name="enter_the_movie_name">Enter the Movie Name</string>
+    <string name="save_movie_to_database">SAVE MOVIE TO DATABASE</string>
+    <string name="add_movies_to_database">ADD MOVIES TO DATABASE</string>
+    <string name="search_all_movies">SEARCH ALL MOVIES</string>
+    <string name="textview">TextView</string>
+</resources>
